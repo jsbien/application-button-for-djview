@@ -1,0 +1,25 @@
+{
+	"apps": {
+		"0.12856548462983475": {
+			"args": "[HREF]",
+			"changestate": "",
+			"closeme": false,
+			"context": [
+				"link"
+			],
+			"errors": false,
+			"filters": "",
+			"icon": "/data/icons/app.png",
+			"name": "DjVu",
+			"path": "c:\\Program Files (x86)\\DjVuLibre\\djview.exe",
+			"pattern": "*://*/*.djvu*",
+			"post": "",
+			"pre": "",
+			"quotes": false,
+			"redirects": "*.djvu*",
+			"toolbar": false
+		}
+	},
+	"last-update": 1604223897986,
+	"save": "0.12856548462983475"
+}
