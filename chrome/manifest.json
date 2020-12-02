@@ -9,12 +9,10 @@
     "contextMenus",
     "nativeMessaging",
     "downloads",
-    "notifications"
-  ],
-  "optional_permissions": [
+    "notifications",
     "webNavigation",
     "*://*/*"
-  ],
+],
   "homepage_url": "https://add0n.com/external-application-button.html",
   "background": {
     "persistent": false,
