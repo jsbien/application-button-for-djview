@@ -10,12 +10,13 @@
     "nativeMessaging",
     "downloads",
     "bookmarks",
-    "notifications"
-  ],
-  "optional_permissions": [
+      "notifications",
     "webNavigation",
     "*://*/*"
   ],
+    "optional_permissions": [
+    ],
+    
   "homepage_url": "https://add0n.com/external-application-button.html",
   "background": {
     "persistent": false,
